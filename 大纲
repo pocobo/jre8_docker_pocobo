@@ -1,0 +1,2 @@
+docker pull crpi-hrvq5w8tkla6visb.cn-beijing.personal.cr.aliyuncs.com/pocobo_docker_io/pocobo-jre8-china_unlimited  
+docker pull pocobo/jre8:china_unlimited
